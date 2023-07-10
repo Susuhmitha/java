@@ -1,0 +1,7 @@
+C:\Users\susavula\source\repos\DayThreeProject2\bin\Debug\DayThreeProject2.exe.config
+C:\Users\susavula\source\repos\DayThreeProject2\bin\Debug\DayThreeProject2.exe
+C:\Users\susavula\source\repos\DayThreeProject2\bin\Debug\DayThreeProject2.pdb
+C:\Users\susavula\source\repos\DayThreeProject2\obj\Debug\DayThreeProject2.csproj.AssemblyReference.cache
+C:\Users\susavula\source\repos\DayThreeProject2\obj\Debug\DayThreeProject2.csproj.CoreCompileInputs.cache
+C:\Users\susavula\source\repos\DayThreeProject2\obj\Debug\DayThreeProject2.exe
+C:\Users\susavula\source\repos\DayThreeProject2\obj\Debug\DayThreeProject2.pdb

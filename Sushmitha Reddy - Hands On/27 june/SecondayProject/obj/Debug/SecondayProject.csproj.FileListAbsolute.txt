@@ -1,0 +1,7 @@
+C:\Users\susavula\source\repos\SecondayProject\bin\Debug\SecondayProject.exe.config
+C:\Users\susavula\source\repos\SecondayProject\bin\Debug\SecondayProject.exe
+C:\Users\susavula\source\repos\SecondayProject\bin\Debug\SecondayProject.pdb
+C:\Users\susavula\source\repos\SecondayProject\obj\Debug\SecondayProject.csproj.AssemblyReference.cache
+C:\Users\susavula\source\repos\SecondayProject\obj\Debug\SecondayProject.csproj.CoreCompileInputs.cache
+C:\Users\susavula\source\repos\SecondayProject\obj\Debug\SecondayProject.exe
+C:\Users\susavula\source\repos\SecondayProject\obj\Debug\SecondayProject.pdb

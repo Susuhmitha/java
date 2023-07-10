@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayThreeProject", "DayThreeProject.csproj", "{A9661B4D-8B93-4E3E-808D-C08CD1FF0267}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyClassLibrary", "..\MyClassLibrary\MyClassLibrary.csproj", "{78809376-4F55-479F-8570-2DE141A94961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9661B4D-8B93-4E3E-808D-C08CD1FF0267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9661B4D-8B93-4E3E-808D-C08CD1FF0267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9661B4D-8B93-4E3E-808D-C08CD1FF0267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9661B4D-8B93-4E3E-808D-C08CD1FF0267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78809376-4F55-479F-8570-2DE141A94961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78809376-4F55-479F-8570-2DE141A94961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78809376-4F55-479F-8570-2DE141A94961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78809376-4F55-479F-8570-2DE141A94961}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C069B13-9CCA-456E-826B-E13D9B05F861}
+	EndGlobalSection
+EndGlobal

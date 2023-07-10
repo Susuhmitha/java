@@ -1,0 +1,7 @@
+C:\Users\susavula\source\repos\CollectionProject\bin\Debug\CollectionProject.exe.config
+C:\Users\susavula\source\repos\CollectionProject\bin\Debug\CollectionProject.exe
+C:\Users\susavula\source\repos\CollectionProject\bin\Debug\CollectionProject.pdb
+C:\Users\susavula\source\repos\CollectionProject\obj\Debug\CollectionProject.csproj.AssemblyReference.cache
+C:\Users\susavula\source\repos\CollectionProject\obj\Debug\CollectionProject.csproj.CoreCompileInputs.cache
+C:\Users\susavula\source\repos\CollectionProject\obj\Debug\CollectionProject.exe
+C:\Users\susavula\source\repos\CollectionProject\obj\Debug\CollectionProject.pdb

@@ -1,0 +1,10 @@
+C:\Users\susavula\source\repos\DayThreeProject\bin\Debug\DayThreeProject.exe.config
+C:\Users\susavula\source\repos\DayThreeProject\bin\Debug\DayThreeProject.exe
+C:\Users\susavula\source\repos\DayThreeProject\bin\Debug\DayThreeProject.pdb
+C:\Users\susavula\source\repos\DayThreeProject\obj\Debug\DayThreeProject.csproj.AssemblyReference.cache
+C:\Users\susavula\source\repos\DayThreeProject\obj\Debug\DayThreeProject.csproj.CoreCompileInputs.cache
+C:\Users\susavula\source\repos\DayThreeProject\obj\Debug\DayThreeProject.exe
+C:\Users\susavula\source\repos\DayThreeProject\obj\Debug\DayThreeProject.pdb
+C:\Users\susavula\source\repos\DayThreeProject\bin\Debug\MyClassLibrary.dll
+C:\Users\susavula\source\repos\DayThreeProject\bin\Debug\MyClassLibrary.pdb
+C:\Users\susavula\source\repos\DayThreeProject\obj\Debug\DayThreeProject.csproj.CopyComplete
