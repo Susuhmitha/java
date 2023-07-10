@@ -1,0 +1,7 @@
+C:\Users\susavula\source\repos\Stack_Demo\obj\Debug\Stack_Demo.csproj.AssemblyReference.cache
+C:\Users\susavula\source\repos\Stack_Demo\obj\Debug\Stack_Demo.csproj.CoreCompileInputs.cache
+C:\Users\susavula\source\repos\Stack_Demo\bin\Debug\Stack_Demo.exe.config
+C:\Users\susavula\source\repos\Stack_Demo\bin\Debug\Stack_Demo.exe
+C:\Users\susavula\source\repos\Stack_Demo\bin\Debug\Stack_Demo.pdb
+C:\Users\susavula\source\repos\Stack_Demo\obj\Debug\Stack_Demo.exe
+C:\Users\susavula\source\repos\Stack_Demo\obj\Debug\Stack_Demo.pdb
